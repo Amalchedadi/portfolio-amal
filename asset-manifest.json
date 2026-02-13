@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-amal/static/css/main.e6c13ad2.css",
+    "main.js": "/portfolio-amal/static/js/main.1c8a6a49.js",
+    "static/js/453.a7d99afe.chunk.js": "/portfolio-amal/static/js/453.a7d99afe.chunk.js",
+    "index.html": "/portfolio-amal/index.html",
+    "main.e6c13ad2.css.map": "/portfolio-amal/static/css/main.e6c13ad2.css.map",
+    "main.1c8a6a49.js.map": "/portfolio-amal/static/js/main.1c8a6a49.js.map",
+    "453.a7d99afe.chunk.js.map": "/portfolio-amal/static/js/453.a7d99afe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1c8a6a49.js"
+  ]
+}
